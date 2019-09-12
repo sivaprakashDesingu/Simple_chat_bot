@@ -1,0 +1,706 @@
+[
+    {
+        "question_type": "",
+        "question_id": 1,
+        "question": "Hi, Mr.Jogn we glad to welcome you here",
+        "sectionName": "Team",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "",
+        "question_id": 2,
+        "question": "Let us know few answer for below questions.",
+        "sectionName": "Team",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 3,
+        "question": "how long have the founders known each other?",
+        "sectionName": "Team",
+        "options": "0-1 year,1-5 years,5-10 years,10 or more",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 4,
+        "question": "Where did the founders meet?",
+        "sectionName": "Team",
+        "options": "In university,At a previous job,We were introduced,Others",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "Others",
+                "question": "",
+                "question_type": "TEXT",
+                "sectionName": "Team",
+                "question_id": 8.1,
+                "options": "",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 5,
+        "question": "Were they aligned with the idea since day one or the other co-founders were brought in eventually?",
+        "sectionName": "Team",
+        "options": "All of us were aligned from day one,Some were aligned and some joined along the way,I started and the others joined",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 5,
+        "question": "does any founder have an exit?",
+        "sectionName": "Team",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 6,
+        "question": "Did the founders previous venture shut down or was acquired?",
+        "sectionName": "Team",
+        "options": "Shut shop,Acquired,Acqui-hired",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 7,
+        "question": "Have any of the founders left/quit their previous venture?",
+        "sectionName": "Team",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 7,
+        "question": "Did the founder exit previous venture to develop this idea?",
+        "sectionName": "Team",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 8,
+        "question": "Has the founders previous company carried on operations after the exit? What is the size of operations now? Could the founder have exited earlier when the market was ripe?",
+        "sectionName": "Team",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "Yes",
+                "question": "What is the turnover now?",
+                "question_type": "MULTI",
+                "sectionName": "Team",
+                "question_id": 8.1,
+                "options": "Less than 1 cr,Between 1-20 cr,Between 20-50 cr,Over 50 cr",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 11,
+        "question": "Have any of the co-founders exited the business since founding?",
+        "sectionName": "Team",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 12,
+        "question": "Are the areas of operations clearly defined for senior executives?",
+        "sectionName": "Team",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 13,
+        "question": "How are conflicts or differences within the management team resolved? Is there one final decision maker or is the decision making decentralized?",
+        "sectionName": "Team",
+        "options": "We toss a coin,We have one final authority,We make final decisions in our respective areas of operation",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 14,
+        "question": "Did the founders come with the necessary experience in their specific domain areas or developed it along the way to execute the stated vision?",
+        "sectionName": "Team",
+        "options": "Yes,No,More or less,Developed along the way",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 15,
+        "question": "Do the decision makers understand the dynamics and metrics to track for the market they wish to operate in?",
+        "sectionName": "Team",
+        "options": "Yes,No,Not entirely",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 16,
+        "question": "Is the management team based out of the same geographic location?",
+        "sectionName": "Team",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 17,
+        "question": "Is the equity division between the founders equitable?",
+        "sectionName": "Team",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "No",
+                "question": "What is the reason was the unequal spread?",
+                "question_type": "MULTI",
+                "sectionName": "Team",
+                "question_id": 17.1,
+                "options": "Seniority, Domain expertise, Investment",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 18,
+        "question": "Has the team made some key hires to complement skills of the founders?",
+        "sectionName": "Team",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 19,
+        "question": "Have there been changes in hierarchy or organization structure from early days?",
+        "sectionName": "Team",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 20,
+        "question": "What is the current management style?",
+        "sectionName": "Team",
+        "options": "People-focused,Business-focused",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 23,
+        "question": "Is the management engaged full time?",
+        "sectionName": "Team",
+        "options": "Yes,No,Some full time,Some advisors",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 24,
+        "question": "How do you retain top talent?",
+        "sectionName": "Team",
+        "options": "Quality of work,Work environment,Monetary incentives,Others",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "Others",
+                "question": "",
+                "question_type": "TEXT",
+                "sectionName": "Team",
+                "question_id": 24.1,
+                "options": "",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 25,
+        "question": "What is your current employee attrition?",
+        "sectionName": "Team",
+        "options": "Less than 10%,10-30%,30-50%,over 50%",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 26,
+        "question": "Are you targeting a user of the product?",
+        "sectionName": "Product",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 27,
+        "question": "What stage is the product at currently?",
+        "sectionName": "Product",
+        "options": "Mockups,Idea,Prototype,Working beta,Launched",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 32,
+        "question": "What are the most important metrics you track?",
+        "sectionName": "Traction",
+        "options": "Burn rate,Growth rate,LTV to CAC,Revenue,Company valuation,Gross margin,All numbers matter,Others",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "Others",
+                "question": "",
+                "question_type": "TEXT",
+                "sectionName": "Traction",
+                "question_id": 32.1,
+                "options": "",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "RangePercentage",
+        "question_id": 33,
+        "question": "Customer growth?",
+        "sectionName": "Traction",
+        "options": "0,0,100",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 34,
+        "question": "Did you have to provide users some free use period to gain traction?",
+        "sectionName": "Traction",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "RangeNumber",
+        "question_id": 35,
+        "question": "How long did you provide free usage for?",
+        "sectionName": "Traction",
+        "options": "0,0,25",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "RangeNumber",
+        "question_id": 36,
+        "question": "What was the traction in that period? (User Growth)",
+        "sectionName": "Traction",
+        "options": "0,0,100",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 37,
+        "question": "Did the growth in traction and sales remain consistent after the period of free usage?",
+        "sectionName": "Traction",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "No",
+                "question": "Did you see drops and to what degree?",
+                "question_type": "RangePercentage",
+                "sectionName": "Traction",
+                "question_id": 37.1,
+                "options": "0,0,100",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 38,
+        "question": "Has your customer growth and revenue consistently grown?",
+        "sectionName": "Traction",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 39,
+        "question": "At what point did the company start experiencing and tracking traction? Was it before the first round of capital or after?",
+        "sectionName": "Traction",
+        "options": "From the beginning,After first round of capital",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 40,
+        "question": "At what point did the company evaluate product-market fit?",
+        "sectionName": "Traction",
+        "options": "Idea,Prototype,Working beta,Launched",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "Idea",
+                "question": "Has the company discovered market fit or still pivoting?",
+                "question_type": "MULTI",
+                "sectionName": "Traction",
+                "question_id": 40.1,
+                "options": "Discovered, Pivoting",
+                "questionStatus": "Pending",
+                "weightage": 1
+            },
+            {
+                "forWhichAnswer": "Prototype",
+                "question": "Has the company discovered market fit or still pivoting?",
+                "question_type": "MULTI",
+                "sectionName": "Traction",
+                "question_id": 40.2,
+                "options": "Discovered, Pivoting",
+                "questionStatus": "Pending",
+                "weightage": 1
+            },
+            {
+                "forWhichAnswer": "Working beta",
+                "question": "Has the company discovered market fit or still pivoting?",
+                "question_type": "MULTI",
+                "sectionName": "Traction",
+                "question_id": 40.3,
+                "options": "Discovered, Pivoting",
+                "questionStatus": "Pending",
+                "weightage": 1
+            },
+            {
+                "forWhichAnswer": "Launched",
+                "question": "Has the company discovered market fit or still pivoting?",
+                "question_type": "MULTI",
+                "sectionName": "Traction",
+                "question_id": 40.4,
+                "options": "Discovered, Pivoting",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 41,
+        "question": "Did you raise capital before or after developing your MVP?",
+        "sectionName": "Traction",
+        "options": "Before,After",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "Before",
+                "question": "Post developing MVP, how soon did you start experiencing decent traction against your targets or projections?",
+                "question_type": "RangeNumber",
+                "sectionName": "Traction",
+                "question_id": 41.1,
+                "options": "0,0,25",
+                "questionStatus": "Pending",
+                "weightage": 1
+            },
+            {
+                "forWhichAnswer": "After",
+                "question": "Post developing MVP, how soon did you start experiencing decent traction against your targets or projections?",
+                "question_type": "RangeNumber",
+                "sectionName": "Traction",
+                "question_id": 41.2,
+                "options": "0,0,25",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 42,
+        "question": "Do you have repeat customers?",
+        "sectionName": "Traction",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "RangeNumber",
+        "question_id": 43,
+        "question": "On an average, How many times will a customer use your product (B2C)",
+        "sectionName": "Traction",
+        "options": "0,0,100",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 44,
+        "question": "What is your Revenue model",
+        "sectionName": "Revenue",
+        "options": "one-time,subscription, usage",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 45,
+        "question": "Did you experience any growth in revenues?",
+        "sectionName": "Revenue",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "RangePercentage",
+        "question_id": 46,
+        "question": "What is your gross margin?",
+        "sectionName": "Revenue",
+        "options": "0,0,100",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "RangePercentage",
+        "question_id": 47,
+        "question": "What are your revenue projections for the next financial year?",
+        "sectionName": "Revenue",
+        "options": "0,0,100",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "RangePercentage",
+        "question_id": 48,
+        "question": "What are your projections for traction for the next financial year?",
+        "sectionName": "Revenue",
+        "options": "0,0,100",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 49,
+        "question": "What describes your business model the best?",
+        "sectionName": "Revenue",
+        "options": "B2B,B2C.C2C,B2B2C",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "B2B2C",
+                "question": "How many businesses are you currently working with?",
+                "question_type": "RangeNumber",
+                "sectionName": "Revenue",
+                "question_id": 49.1,
+                "options": "0,0,100",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 50,
+        "question": "When is your service monetised?",
+        "sectionName": "Revenue",
+        "options": "Pre-service,Post-service",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 51,
+        "question": "Is your business dependent on someone else for delivery?",
+        "sectionName": "Revenue",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "NUMBER",
+        "question_id": 52,
+        "question": "What is the market size you are working on?",
+        "sectionName": "Revenue",
+        "options": "",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "RangePercentage",
+        "question_id": 53,
+        "question": "What percentage of market share is already taken by competitiors?",
+        "sectionName": "Market",
+        "options": "0,0,100",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 55,
+        "question": "Did you run any aggressive campaigns to get your product visibility?",
+        "sectionName": "Market",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "Yes",
+                "question": "What was the blended CAC for this?",
+                "question_type": "NUMBER",
+                "sectionName": "Revenue",
+                "question_id": 55.1,
+                "options": "",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "NUMBER",
+        "question_id": 56,
+        "question": "How many competitors do you see in this space?",
+        "sectionName": "Market",
+        "options": "",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "TEXT",
+        "question_id": 57,
+        "question": "Why is now the right time for this?",
+        "sectionName": "Market",
+        "options": "",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 58,
+        "question": "Is the company's market focus diversified or is it focused on a specific segment?",
+        "sectionName": "Market",
+        "options": "Diversified, Focused",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "Yes",
+                "question": "What was the blended CAC for this?",
+                "question_type": "NUMBER",
+                "sectionName": "Revenue",
+                "question_id": 58.1,
+                "options": "",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 60,
+        "question": "Is it a compulsory buy or a discretionary buy. Is it must have?",
+        "sectionName": "Market",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 62,
+        "question": "What's the main risk you see that would stop you achieving your vision?",
+        "sectionName": "Values",
+        "options": "Regulatory,Easier access to new players, Competition,difficulty of exit",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 64,
+        "question": "Is your business based on maket effeciency/regulatory arbitrage?",
+        "sectionName": "Values",
+        "options": "Market Efficiency,Regulatory arbitrage",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "RangePercentage",
+        "question_id": 65,
+        "question": "What is you MoM customer growth? ",
+        "sectionName": "Growth",
+        "options": "0,0,100",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "YESNO",
+        "question_id": 66,
+        "question": "Have you raised money before?",
+        "sectionName": "Funds",
+        "options": "Yes,No",
+        "questionStatus": "Pending",
+        "weightage": 1,
+        "subQuestion": [
+            {
+                "forWhichAnswer": "MULTI",
+                "question": "What was the nature of your fundraise?",
+                "question_type": "NUMBER",
+                "sectionName": "Funds",
+                "question_id": 66.1,
+                "options": "Friends & family,Angel,Institutional",
+                "questionStatus": "Pending",
+                "weightage": 1
+            }
+        ]
+    },
+    {
+        "question_type": "NUMBER",
+        "question_id": 67,
+        "question": "How much money has gone into the venture?",
+        "sectionName": "Funds",
+        "options": "",
+        "questionStatus": "Pending",
+        "weightage": 1
+    },
+    {
+        "question_type": "MULTI",
+        "question_id": 68,
+        "question": "What portion of your stake has been diluted?",
+        "sectionName": "Funds",
+        "options": "0-10%, 10-20%, 20-50%, more than 50%",
+        "questionStatus": "Pending",
+        "weightage": 1
+    }
+]

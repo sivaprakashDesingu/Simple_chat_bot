@@ -1,0 +1,86 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.dPdbIW{
+  width:980px;
+  position:static;
+  margin:0 auto
+}
+.hQsUiY,.hiMqtA,.cRmLCo,.ipSaXD,.jKLQUD{
+  background: #21ac71;  
+}
+
+.rsc-header{display:none}
+.jKLQUD{
+background: transparent;
+border-radius:unset;
+box-shadow: unset;
+display: block;
+justify-content:unset;
+margin: unset;
+padding: unset;
+width:400px;
+}
+
+.Rangeslider .hQsUiY{
+  width: 100%;
+  padding-left:20px;
+  background: transparent;
+  box-shadow: unset;
+}
+
+.Rangeslider .rangeSliderinnerwrapper{
+  width:400px;
+  margin:0 auto
+}
+
+.Rangeslider .ant-btn {
+  margin-top: 40px;
+}
+.Rangeslider .rc-slider-rail, .Rangeslider .rc-slider-track {
+  height: 20px;
+}
+.rc-slider-rail{
+  border: 3px solid #21ac71;
+  border-radius:30px;
+}
+.rc-slider-track{
+  border-radius:30px; 
+}
+.Rangeslider .rc-slider-track {
+  background-color: #21ac71;
+}
+.Rangeslider .rc-slider-handle, .Rangeslider .rc-slider-handle:focus {
+  border-color: #21ac71;
+  box-shadow: 0 0 0 2px rgba(33, 172, 113, 0.2);
+}
+.Rangeslider .rc-slider-dot {
+  display: none;
+}
+.Rangeslider .rc-slider-handle {
+  width: 30px;
+  height:30px;
+}
+.Rangeslider .rc-slider-mark {
+  top: 30px;
+}
+.sliderMarker{color:#333;}
+.sliderMarker span{
+  display: inline-block;
+  width: 50%;
+  text-align: right;
+  margin: 15px 0 0;
+  font-size: 14px;
+}
+.sliderMarker span:first-child{
+  text-align:left
+}
+.Rangeslider .cwuCQv{
+  position: relative;
+  top:-45px;
+  display:none;
+}
+.jKLQUD{
+  width:100%;
+}
